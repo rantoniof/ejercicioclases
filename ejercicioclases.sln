@@ -5,6 +5,11 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioclases", "ejercicioclases\ejercicioclases.csproj", "{5344BC7C-8D3E-4ADF-8181-FD6CDD919728}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{282B0747-FB4B-4D60-AE9C-1AF6FBDCED31}"
+	ProjectSection(SolutionItems) = preProject
+		Ave.cs = Ave.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
